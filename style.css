@@ -97,6 +97,10 @@
     color: white;
   }
   
+  .primary-link:hover {
+    background: white;
+    color: var(--primary-color);
+  }
 
   @media (max-width: 576px) {
     h1 {
